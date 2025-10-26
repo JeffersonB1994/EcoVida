@@ -95,12 +95,6 @@ Inclui:
 
 ---
 
-## 📸 Prévia (exemplo)
-
-> As imagens utilizadas são ilustrativas e podem ser substituídas por fotos reais dos projetos.
-
----
-
 ## 💚 Autor
 
 **Jefferson Baldissera**
