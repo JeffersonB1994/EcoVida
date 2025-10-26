@@ -45,4 +45,69 @@ Inclui informações de contato e imagem institucional.
 
 ### **2. Projetos (`projetos.html`)**
 
-Detalha
+Detalha os principais projetos da ONG, como:
+
+* Reflorestamento de áreas degradadas;
+* Ações de reciclagem comunitária;
+* Oficinas de educação ambiental.
+
+### **3. Cadastro (`cadastro.html`)**
+
+Formulário de inscrição para voluntários e doadores com campos:
+
+* Nome completo
+* E-mail
+* CPF
+* Telefone
+* Data de nascimento
+* Endereço, CEP, Cidade e Estado
+
+Inclui:
+
+* Validações nativas do HTML5
+* Agrupamento lógico com `<fieldset>`
+* Máscaras de input (CPF, telefone e CEP)
+
+---
+
+## 🧠 Tecnologias Utilizadas
+
+* **HTML5** (estrutura semântica e formulários)
+* **CSS3** (opcional, pode ser adicionado em etapas futuras)
+* **Imagens otimizadas** (formato `.jpg` e `.png`)
+* **Validação** com [W3C Validator](https://validator.w3.org/)
+
+---
+
+## 🚀 Como Visualizar o Projeto
+
+1. Faça o download ou clone este repositório:
+
+   ```bash
+   git clone https://github.com/usuario/ecovida.git
+   ```
+2. Acesse a pasta do projeto:
+
+   ```bash
+   cd ecovida
+   ```
+3. Abra o arquivo `index.html` em seu navegador.
+
+---
+
+## 📸 Prévia (exemplo)
+
+> As imagens utilizadas são ilustrativas e podem ser substituídas por fotos reais dos projetos.
+
+---
+
+## 💚 Autor
+
+**Jefferson Baldissera**
+Desenvolvido como atividade prática da Unidade de Fundamentos de HTML5.
+
+---
+
+## 📝 Licença
+
+Este projeto é de uso educacional e livre para fins acadêmicos.
