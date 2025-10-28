@@ -79,26 +79,10 @@ Inclui:
 
 ---
 
-## 🚀 Como Visualizar o Projeto
-
-1. Faça o download ou clone este repositório:
-
-   ```bash
-   git clone https://github.com/usuario/ecovida.git
-   ```
-2. Acesse a pasta do projeto:
-
-   ```bash
-   cd ecovida
-   ```
-3. Abra o arquivo `index.html` em seu navegador.
-
----
 
 ## 💚 Autor
 
 **Jefferson Baldissera**
-Desenvolvido como atividade prática da Unidade de Fundamentos de HTML5.
 
 ---
 
